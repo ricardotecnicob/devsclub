@@ -8,7 +8,7 @@ import imagem02 from "../../assets/images/imagem2.jpeg";
 import javascript from "../../assets/images/js-square.svg";
 import python from "../../assets/images/python.png";
 import java from "../../assets/images/311945.svg";
-import cpp from "../../assets/images/cpp.png";
+import cpp from "../../assets/images/CPP.png";
 
 const usuarios = [
   {
