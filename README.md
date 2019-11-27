@@ -2,11 +2,13 @@
 <a href="#" alt="RSXP">
   <img src="https://rocketseat.com.br/static/images/experience/RSXP.svg" height="120px"></a></p>
 
+<a href="#" alt="RSXP">Voltar para o repositório principal</a>
+
 # RS/XP - Dev's Club - Frontend
 
 ## Description
 
-Aplicação Dev's Club parte do Hackathon da RS/XP
+Frontend da aplicação Dev's Club parte do Hackathon da RS/XP
 
 ## Installing
 
@@ -15,6 +17,11 @@ Aplicação Dev's Club parte do Hackathon da RS/XP
 ## Running
 
 `yarn start`
+
+## login de teste para acesso a empresas
+
+- Usúario: teste@teste.com
+- Senha: testando
 
 ## Team
 
