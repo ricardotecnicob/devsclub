@@ -3,6 +3,7 @@
   <img src="https://rocketseat.com.br/static/images/experience/RSXP.svg" height="120px"></a></p>
 
 <a href="https://github.com/nennogabriel/rsxp-devsclub-business" alt="RSXP">Voltar para o repositório principal</a>
+<a href="https://github.com/Thierry-Santos/DevsClub" alt="RSXP">Aplicação Mobile</a>
 
 # RS/XP - Dev's Club - Frontend
 
