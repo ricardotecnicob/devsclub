@@ -10,10 +10,7 @@ Aplicação Dev's Club parte do Hackathon da RS/XP
 
 ## Installing
 
-```
-yarn
-
-```
+`yarn`
 
 ## Running
 
