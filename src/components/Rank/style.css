@@ -1,0 +1,32 @@
+.areaGeral{max-width: 700px; width: 100%; background-color: #3c3174;height: 100%; left: 25%;padding-top: 20px;margin:auto;}
+
+.menusAcessos{display: flex;justify-content: space-between;margin:auto;width: 90%;}
+
+.logo{font-size: 25px;font-weight: bold; color: white;margin-bottom: 20px;text-align: center;text-shadow: 1px 1px 1px #000;}
+
+.areasEmpresas{margin-top: 10px;}
+.areaempresas{border: 1px solid #fff;padding: 5px;color: #fff; text-decoration: none; border-radius: 10px;}
+.areaempresas:hover{background: #000;color: #fff;}
+
+.areaClick{cursor: pointer;}
+
+.arealinha{display: flex;justify-content: center;background: #fff;padding: 5px;border: 2px solid #000;border-radius: 100px;width: 90%;margin:auto;margin-bottom: 10px;}
+
+.arealinhaDiv01{display: flex;height: 50px;line-height: 50px;}
+.arealinhaDiv01 div{margin-right: 5px;}
+
+.posicao{width:20px;height: 20px;border-radius: 100%; background :#000; color: white;display: flex;justify-content: center;align-items: center;padding: 5px;margin-top: 10px;}
+
+.linha{width: 60px;height: 2px;background-color: #000;margin-top: 25px;}
+
+.imagempessoa{height: 50px;}
+.imagempessoa img{height: 100%;border-radius: 100%;}
+
+.nomepessoa{font-weight: 600;}
+
+.tecnologia{width: 22px; height: 22px;margin-top: 5px;}
+
+.arealinhaDiv02{background: #000;border-radius: 100%;width: 50px;height: 50px;display: flex;align-items: center;justify-content: center;margin-left: 10px;}
+.pontuacao{color: white;text-align: center;}
+.pontuacao .pontuacaoText{font-size: 12px;margin-bottom: -12px;}
+.pontuacao .pontuacaoSub{font-size: 10px;}

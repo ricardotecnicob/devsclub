@@ -1,0 +1,13 @@
+.areageralempresas{max-width: 700px; width: 100%; background-color: #3c3174;height: 100%; left: 25%;padding-top: 20px;margin:auto;}
+
+.areaVideoApre{width: 100%; height: 400px; background: #292929; color: white; display: flex; justify-content: center; align-items: center;}
+.areaVideoApre label{font-weight: bold;font-size: 50px;}
+
+.areaTitulo{padding: 10px;}
+.areaTitulo label{font-weight: bold; color: white; font-size: 20px; }
+
+.areaDesc{padding: 10px;color: white;}
+
+.areaCoins{height: 50px;text-align: center;padding-bottom: 100px;margin-top: 20px;}
+.areaCoins label{font-size: 20px;font-weight: bold; color: white;}
+.areaCoins img{height: 100%;margin-right: 10px;}
