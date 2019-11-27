@@ -10,7 +10,7 @@ export default function Login() {
   const [senha, setSenha] = useState("");
 
   function handleSubmit() {
-    if (email !== "teste@teste.com" && senha !== "testando") {
+    if (email !== "teste@teste.com" || senha !== "testando") {
       //alert("Usuário ou senha inválidos");
       toast.error("Usuário ou senha inválidos!");
     } else {
