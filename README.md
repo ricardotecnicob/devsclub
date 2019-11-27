@@ -18,7 +18,7 @@ Frontend da aplicação Dev's Club parte do Hackathon da RS/XP
 
 `yarn start`
 
-## login de teste para acesso a empresas
+## Login de teste para acesso a empresas
 
 - Usúario: teste@teste.com
 - Senha: testando
