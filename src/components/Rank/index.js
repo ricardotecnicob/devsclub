@@ -8,54 +8,54 @@ import imagem02 from "../../assets/images/imagem2.jpeg";
 import javascript from "../../assets/images/js-square.svg";
 import python from "../../assets/images/python.png";
 import java from "../../assets/images/311945.svg";
-import cpp from "../../assets/images/CPP.png";
+import cpp from "../../assets/images/cpp.png";
 
 const usuarios = [
   {
     imagem: imagem02,
-    nome: "Ricardo Alve 1",
+    nome: "Ricardo Alves",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 512
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 2",
+    nome: "Lindemberg de Castro",
     linguangem: "python",
     linguagemimg: python,
     pontuacao: 500
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 3",
+    nome: "Mirian Montezi",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 450
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 4",
+    nome: "Pedro Moreno",
     linguangem: "java",
     linguagemimg: java,
     pontuacao: 400
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 5",
+    nome: "Thierry Santos",
     linguangem: "c++",
     linguagemimg: cpp,
     pontuacao: 350
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 6",
+    nome: "Diego Fernandes",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 300
   },
   {
     imagem: imagem02,
-    nome: "Ricardo Alves 7",
+    nome: "Tarcio Carvalho",
     linguangem: "python",
     linguagemimg: python,
     pontuacao: 800
@@ -85,24 +85,23 @@ export default class Rank extends Component {
         <div className="menusAcessos">
           <div className="logo">Rank Dev's Club</div>
           <div className="menusBuscas">
-              <div className="areasEmpresas">
-                <Link to="/login" className="areaempresas">
-                  Acesso Empresas
-                </Link>
-              </div>
-              <div className="filtro">
-                <select className="selecione" onChange={this.handleChange}>
-                  <option value="todos">todos</option>
-                  <option value="javascript">javascript</option>
-                  <option value="python">python</option>
-                  <option value="ruby">ruby</option>
-                  <option value="java">java</option>
-                  <option value="c++">c++</option>
-                </select>
-              </div>
+            <div className="areasEmpresas">
+              <Link to="/login" className="areaempresas">
+                Acesso Empresas
+              </Link>
+            </div>
+            <div className="filtro">
+              <select className="selecione" onChange={this.handleChange}>
+                <option value="todos">todos</option>
+                <option value="javascript">javascript</option>
+                <option value="python">python</option>
+                <option value="ruby">ruby</option>
+                <option value="java">java</option>
+                <option value="c++">c++</option>
+              </select>
+            </div>
           </div>
         </div>
-
 
         {/* Repetido */}
 

@@ -34,7 +34,7 @@
   border-radius: 10px;
 }
 
-.selecione{
+.selecione {
   border: 1px solid #fff;
   padding: 5px;
   text-decoration: none;
@@ -53,9 +53,16 @@
   color: #fff;
 }
 
-.menusBuscas{width: 250px;display: flex;}
-.menusBuscas div{margin-right: 10px;}
-.menusBuscas .filtro{margin-top: 5px;}
+.menusBuscas {
+  width: 250px;
+  display: flex;
+}
+.menusBuscas div {
+  margin-right: 10px;
+}
+.menusBuscas .filtro {
+  margin-top: 5px;
+}
 
 .areaClick {
   cursor: pointer;
