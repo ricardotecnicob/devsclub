@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 import './style.css';
 
+
 import imgCoin from '../../assets/images/rocketseat-js-starter.png';
 
 export default class Empresas extends Component {

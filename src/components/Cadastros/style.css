@@ -1,0 +1,18 @@
+body{
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.geralLogin{max-width: 700px; width: 100%; margin-top: 100px;    }
+.areaLogoLogin{height: 150px;margin-bottom: 20px;}
+.areaLogoLogin img{height: 100%;}
+
+.inputsLogin{text-align: left;}
+.inputCampo{width: 200px;padding: 10px;margin-bottom: 10px;border-radius: 3px;border: 1px solid #ccc; box-shadow: 4px 4px 4px rgba(204, 204, 204, .5);}
+
+.btnButtonEntrar{background-color: #25A5bf; border: 1px solid #25A5bf; width: 222px; padding: 10px; cursor: pointer; color: white;margin-bottom: 20px;}
+
+.btnButtonNaotenhoConta{border: 2px solid #25A5bf;width: 200px; padding: 10px; background-color: #fff;cursor: pointer;text-decoration: none; color: #666; }
