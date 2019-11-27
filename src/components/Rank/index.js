@@ -4,7 +4,7 @@ import SortBy from "sort-by";
 
 import "./style.css";
 
-import imagem02 from "../../assets/images/imagem2.jpeg";
+import user from "../../assets/images/user.png";
 import javascript from "../../assets/images/js-square.svg";
 import python from "../../assets/images/python.png";
 import java from "../../assets/images/311945.svg";
@@ -12,49 +12,49 @@ import cpp from "../../assets/images/CPP2.png";
 
 const usuarios = [
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Ricardo Alves",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 512
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Lindemberg de Castro",
     linguangem: "python",
     linguagemimg: python,
     pontuacao: 500
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Mirian Montezi",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 450
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Pedro Moreno",
     linguangem: "java",
     linguagemimg: java,
     pontuacao: 400
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Thierry Santos",
     linguangem: "c++",
     linguagemimg: cpp,
     pontuacao: 350
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Diego Fernandes",
     linguangem: "javascript",
     linguagemimg: javascript,
     pontuacao: 300
   },
   {
-    imagem: imagem02,
+    imagem: user,
     nome: "Tarcio Carvalho",
     linguangem: "python",
     linguagemimg: python,

@@ -36,6 +36,7 @@
 
 .selecione {
   border: 1px solid #fff;
+  height: 32px;
   padding: 5px;
   text-decoration: none;
   border-radius: 10px;
