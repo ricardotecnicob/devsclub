@@ -5,62 +5,59 @@ import SortBy from "sort-by";
 import "./style.css";
 
 import imagem02 from "../../assets/images/imagem2.jpeg";
-import iconTec1 from "../../assets/images/js-square.svg";
-import iconTec2 from "../../assets/images/js-square.svg";
-import iconTec3 from "../../assets/images/js-square.svg";
-import iconTec4 from "../../assets/images/js-square.svg";
-import iconTec5 from "../../assets/images/js-square.svg";
-import iconTec6 from "../../assets/images/js-square.svg";
-import iconTec7 from "../../assets/images/js-square.svg";
+import javascript from "../../assets/images/js-square.svg";
+import python from "../../assets/images/python.png";
+import java from "../../assets/images/java.png";
+import cpp from "../../assets/images/cpp.png";
 
 const usuarios = [
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "javascript",
-    linguagemimg: iconTec1,
+    linguagemimg: javascript,
     pontuacao: 512
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "python",
-    linguagemimg: iconTec2,
+    linguagemimg: python,
     pontuacao: 500
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
-    linguangem: "ruby",
-    linguagemimg: iconTec3,
+    linguangem: "javascript",
+    linguagemimg: javascript,
     pontuacao: 450
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "java",
-    linguagemimg: iconTec4,
+    linguagemimg: java,
     pontuacao: 400
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "c++",
-    linguagemimg: iconTec5,
+    linguagemimg: cpp,
     pontuacao: 350
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "javascript",
-    linguagemimg: iconTec1,
+    linguagemimg: javascript,
     pontuacao: 300
   },
   {
     imagem: imagem02,
     nome: "Ricardo Alves",
     linguangem: "python",
-    linguagemimg: iconTec2,
+    linguagemimg: python,
     pontuacao: 800
   }
 ];
@@ -88,7 +85,7 @@ export default class Rank extends Component {
         <div className="menusAcessos">
           <div className="logo">Rank Dev's Club</div>
           <div className="areasEmpresas">
-            <Link to="/empresa" className="areaempresas">
+            <Link to="/login" className="areaempresas">
               Acesso Empresas
             </Link>
           </div>
