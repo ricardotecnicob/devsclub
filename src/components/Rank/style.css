@@ -29,14 +29,33 @@
 .areaempresas {
   border: 1px solid #fff;
   padding: 5px;
-  color: #fff;
+  color: #000;
   text-decoration: none;
   border-radius: 10px;
 }
+
+.selecione{
+  border: 1px solid #fff;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  background: transparent;
+  color: #000;
+}
+
 .areaempresas:hover {
   background: #000;
   color: #fff;
 }
+
+.selecione:hover {
+  background: #000;
+  color: #fff;
+}
+
+.menusBuscas{width: 250px;display: flex;}
+.menusBuscas div{margin-right: 10px;}
+.menusBuscas .filtro{margin-top: 5px;}
 
 .areaClick {
   cursor: pointer;
